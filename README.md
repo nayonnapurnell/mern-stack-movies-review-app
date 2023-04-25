@@ -1,4 +1,4 @@
-# mern-stack-movies-review-app
+# MERN Stack Movies Review App
 
 
   
